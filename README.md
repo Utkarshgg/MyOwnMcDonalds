@@ -1,2 +1,2 @@
 # MyOwnMcDonalds
-This is a file handling project I made in c++, Had quite a lot of making it!
+This is a file handling project I made in c++, Had quite a lot of fun making it!
